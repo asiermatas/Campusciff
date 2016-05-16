@@ -149,6 +149,10 @@ También enn profile, en security se puede poner una dobe autentificación pero co
 
 ![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/doble.jpg)
 
+La clave publica es en el profile en SSH y ya llo hicimos en clase:
+
+![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/SSH.jpg)
+
 
 # Uso social del git hub
 
