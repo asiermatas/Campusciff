@@ -198,13 +198,13 @@ Así nos queda:
 
 # Añadir adolfo de colaborador
 
-En el git hub, en nuestro repositorio, en el signo _+_ podemos añadir un colaborador
+En el git hub, en nuestro repositorio, en el signo __+__ podemos añadir un colaborador
 
 
 ![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/colaborador.jpg)
 
 
-_ Bueno y con esto ya..._
+__Bueno y con esto ya...__
 
 ![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/fin.jpg)
 
