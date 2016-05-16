@@ -16,7 +16,7 @@ Y saldrá asi
 
 # 2. Clonar campus ciff a local
 
-Ponemos el git en la carpeta que vamos a utilizar. Para ello nos utilizamos:
+Ponemos el git en la carpeta que vamos a utilizar. Para ello debemos utilizar:
 
 cd .. --> para salir de la carpeta actuala a la superios
 
@@ -44,7 +44,14 @@ Lo he creado con el boton derecho del raton en la carpeta en local de campus cif
 
 # commmit inicial
 
-Voy a subir el readme al staggin con  git add -A  readme.md  y la imagen y después al repositorio con un git commit -m "Subir readme.md"  
+Voy a subir el readme al staggin el readme.md  y la imagen  con  
+
+	git add -A  
+
+y después al repositorio con un 
+
+	git commit -m "Subir readme.md"  
+
 
 # Push inicial
 
@@ -82,7 +89,34 @@ Subo este readme hasta el git hub, ahora que lo acabo de actualizar.
 
 	git add "Readme.md"
 	commit -m "subir readme 3"
+
+
 	push git@github.com:asiermatas/Campusciff.git
+
+
+
+# Crear fichero 1.txt
+
+Adivina.... :oP   (sí, lamento confesarme como fan de bill gates) 
+
+y lo subo
+
+	git add "1txt"
+	commit -m "subir 1.txt 3"
+
+# Crea tag
+
+Al crer un tag lo que hacemos es asignar un tag al ultimo commit que hemmos hecho. en este caso el del fichero 1.txt. 
+Por eso es importante haber subido ya el 1.txt a repositorio local. 
+
+Una ve sudido ejecutamos el commando:
+
+	git tag v0.1
+
+En caso de equivocarnos del tag se puede borrar con:
+
+	git tag -d v01
+
 
 
 
