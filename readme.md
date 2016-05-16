@@ -196,11 +196,11 @@ Así nos queda:
 
 | Nombre |    Perfil Git Hub                   | 
 | ------ | -----------------------------------:| 
-| Anna   |< https://github.com/juangarciaciff >|
-| Juan   |< https://github.com/annalawrenc    >| 
+| Juan   |< https://github.com/juangarciaciff >|
+| Anna   |< https://github.com/annalawrenc    >| 
 
 
-# Añadir adolfo de colaborador
+# Añadir Adolfo Sanz de colaborador
 
 En el git hub, en nuestro repositorio, en el signo __+__ podemos añadir un colaborador
 
