@@ -176,12 +176,9 @@ Dibujamos lo siguiente en el fichero readmer
 
 
 
-	| Header | Header | 
-
-	| ------ | ------:| 
-
-	| Nombre|< enlace >|
-
+	| Header | Header   | 
+	| ------ | --------:| 
+	| Nombre |< enlace >|
 	| nombre |< enlace >| 
 
 
@@ -194,11 +191,8 @@ Así nos queda:
 
 
 | Nombre |    Perfil Git Hub                   | 
-
 | ------ | -----------------------------------:| 
-
 | Anna   |< https://github.com/juangarciaciff >|
-
 | Juan   |< https://github.com/annalawrenc    >| 
 
 
