@@ -32,7 +32,9 @@ A continuación vamos a apuntar esa carpeta o entorno de trabajo al repositorio G
 
 La dirección es la dirección internet de nuestro repositorio en github.
 
+![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/Dreccionrepositorio.jpg)
 
+Sabremos que va bien porque nos pedirá la contraseña de git hub.
 
 
 # Crear Readme
