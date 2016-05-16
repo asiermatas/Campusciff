@@ -5,9 +5,13 @@
 
 _Este repositorio ya lo cree en clase_
 
-De todas maneras se hará así:
+De todas maneras se hará así: (Al tabular en el readme te aparecce lo tabulado en gris y resaltado)
 
 	![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/Crear%20repositorio.jpg)
+
+Y saldrá asi
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/Crear%20repositorio.jpg)
 
 
 # 2. Clonar campus ciff a local
@@ -27,6 +31,8 @@ A continuación vamos a apuntar esa carpeta o entorno de trabajo al repositorio G
 	git clone git@github.com:asiermatas/Campusciff.git
 
 La dirección es la dirección internet de nuestro repositorio en github.
+
+
 
 
 # Crear Readme
@@ -70,7 +76,11 @@ privada/  ---> esto es para que ignore la carpeta privada
 
 A partir de ahhora al subir a staging (git add -A) y hacer commit (git commit -m "subida X") no subira estos dos objetos.
 
+Subo este readme hasta el git hub, ahora que lo acabo de actualizar.
 
+	git add "Readme.md"
+	commit -m "subir readme 3"
+	push git@github.com:asiermatas/Campusciff.git
 
 
 
