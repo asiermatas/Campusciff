@@ -170,4 +170,49 @@ Y ya entre a sus repositorios  para ponerles estrella y usuarios para seguirlos
 ![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/starred.jpg)
 
 
+# Tabla
+
+Dibujamos lo siguiente en el fichero readmer
+
+
+
+	| Header | Header | 
+
+	| ------ | ------:| 
+
+	| Nombre|< enlace >|
+
+	| nombre |< enlace >| 
+
+
+con los signos <> indicamos en el readme.md que es un en lace, y el enlace lo tomamos de la dirección web de su perfil
+
+![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/enlace.jpg)
+
+Así nos queda:
+
+
+
+| Nombre |    Perfil Git Hub                   | 
+
+| ------ | -----------------------------------:| 
+
+| Anna   |< https://github.com/juangarciaciff >|
+
+| Juan   |< https://github.com/annalawrenc    >| 
+
+
+# Añadir adolfo de colaborador
+
+En el git hub, en nuestro repositorio, en el signo _+_ podemos añadir un colaborador
+
+
+![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/colaborador.jpg)
+
+
+_ Bueno y con esto ya..._
+
+![Imagen dirección](https://github.com/asiermatas/Campusciff/blob/master/fin.jpg)
+
+
 
