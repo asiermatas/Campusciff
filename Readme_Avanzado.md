@@ -70,7 +70,18 @@ Y hacemos un merge
 	git merge v0.2
 
 
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/mergejpg)
 
+
+Con esto he compiado lo que habia en la rama v0.2 al master
+
+# Merge con conflicto
+
+El fichero 1.txt lo teniamos creado del ejercicio anterior. En este lo vamos a rellenar con un HOLA
+
+Para ello simplemente uutilizaremos windowws: boton derecho abrir , escribi y guardar. 
+
+Y hacemos el add+commit.
 
 
 
