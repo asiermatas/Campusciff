@@ -89,7 +89,7 @@ Despues vamos a la rama v0.2
 
 Y editamos con windows el 1.txt que tenemos ahi.
 
-Este ahora aprecera en blannco, porque dependiendo de en que rama o master enstemos en git bash, y si hemos hecho ya commit. 
+Este ahora aprecera en blanco, porque dependiendo de en que rama o master enstemos en git bash, y si hemos hecho ya commit. 
 Pues entonces tendremos un fichero distion con una visualización distinta.
 
 
