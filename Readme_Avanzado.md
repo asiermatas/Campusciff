@@ -56,6 +56,19 @@ Y me aparecerá:
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/ramav0.2jpg)
 
 
+## Merge Directo
+
+Vamos al master del git (para ello salimos de la rama v0.2)
+
+	git checkout maste
+
+__ATENCIÓN: si hemos hecho cambios en algun fichero no podremos salir de la rama. Primero tendremos que subir los ficheros cambiados.__
+
+
+Y hacemos un merge
+
+	git merge v0.2
+
 
 
 
