@@ -148,8 +148,18 @@ Con el siguiente comando pongo un tag a la rama v0.2 y después la borro
 	git tag v0.2 
 	git branch -d 1.NoMerge
 
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/del2.jpg)
 
 # Listado cambios
+
+Con el siguiente comando listaremos toooooddoooooos los cambios:
+
+	git log
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/cambios1.jpg)
+
+
+__Y ahora apor las organizaciones.__
 
 
 
