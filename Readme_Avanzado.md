@@ -161,6 +161,35 @@ Con el siguiente comando listaremos toooooddoooooos los cambios:
 
 __Y ahora apor las organizaciones.__
 
+Creamos organizaciónn
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/crear_organizacion.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org2.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org3.jpg)
+
+
+Y ahora creamos equipos
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team1.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team2.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team3.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team4.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team5.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team6.jpg)
 
 
 
