@@ -163,21 +163,26 @@ __Y ahora apor las organizaciones.__
 
 Creamos organizaciónn
 
-![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/crear_organizacion.jpg)
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/crear_organizacón.jpg)
 
+E invitamos miembros
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org2.jpg)
 
+creamos equipos
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org3.jpg)
 
 
-Y ahora creamos equipos
+Y añadimo miembros al equipo
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team1.jpg)
 
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team2.jpg)
+
+
+Y gestionamos autorizaciones
 
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team3.jpg)
@@ -192,4 +197,13 @@ Y ahora creamos equipos
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team6.jpg)
 
 
+Creamos un nuevo repositorio en la organizacion. campusciff-tunombredeusuariodegithub.github.io
 
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team7.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team8.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team9.jpg)
