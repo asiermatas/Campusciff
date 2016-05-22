@@ -75,7 +75,7 @@ Y hacemos un merge
 
 Con esto he compiado lo que habia en la rama v0.2 al master
 
-# Merge con conflicto
+# Merge con conflicto y Arreglar conflicto
 
 El fichero 1.txt lo teniamos creado del ejercicio anterior. En este lo vamos a rellenar con un HOLA
 
@@ -134,7 +134,22 @@ y me saldra:
 y hago add + commit + push.
 
 
+# borrar rama
 
+Con el siguiente comando me borro la rama 1.NoMerge
+
+	git branch -d 1.NoMerge
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/del1.jpg)
+
+
+Con el siguiente comando pongo un tag a la rama v0.2 y después la borro
+
+	git tag v0.2 
+	git branch -d 1.NoMerge
+
+
+# Listado cambios
 
 
 
