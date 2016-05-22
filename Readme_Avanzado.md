@@ -83,10 +83,28 @@ Para ello simplemente uutilizaremos windowws: boton derecho abrir , escribi y gu
 
 Y hacemos el add+commit.
 
+Despues vamos a la rama v0.2
+
+	git checkout v0.2
+
+Y editamos con windows el 1.txt que tenemos ahi.
+
+Este ahora aprecera en blannco, porque dependiendo de en que rama o master enstemos en git bash, y si hemos hecho ya commit. 
+Pues entonces tendremos un fichero distion con una visualización distinta.
 
 
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/generandoconflictojpg)
 
 
+Ahora al hacer el merge, es decir copiar reciprocamente rama v0.2 y Master, deectará que hay valores distintos en commit en Master y Rama paara 1.txt
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/conflicto1txt2jpg)
+
+Para resolver el conflicto vamos a wndows abrimos el fichero 1txxt y nos aparecerá donde esta el conflicto.
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/conflicto1txtjpg)
+
+Yo me decido a dejar el Hola y borro el resto.
 
 
 
