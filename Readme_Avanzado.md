@@ -165,16 +165,16 @@ Creamos organización
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org.jpg)
 
-E invitamos miembros
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org2.jpg)
 
-creamos equipos
+E invitamos miembros
+
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org3.jpg)
 
 
-Y añadimo miembros al equipo
+Y creamos equipos y añadimo miembros al equipo
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team1.jpg)
 
