@@ -161,9 +161,9 @@ Con el siguiente comando listaremos toooooddoooooos los cambios:
 
 __Y ahora apor las organizaciones.__
 
-Creamos organizaciónn
+Creamos organización
 
-![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/crear_organizacón.jpg)
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/org.jpg)
 
 E invitamos miembros
 
