@@ -207,3 +207,11 @@ Creamos un nuevo repositorio en la organizacion. campusciff-tunombredeusuariodeg
 
 
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team9.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team10.jpg)
+
+Y para generar pagina web del repositorio tenemos que ir a los setting del repositorio de la organización
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team11.jpg)
+
