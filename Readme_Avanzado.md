@@ -108,6 +108,32 @@ Yo me decido a dejar el Hola y borro el resto.
 
 
 
+# Lista ramas con y sin merge
+
+Ahora mismo mi rama v0.2 yaa esta con merge.
+
+Me voy a crear una nuevva rama: 1.NoMerge
+
+	get branch 1.NoMerge
+
+Y despues salgo a la rama master 
+
+	git checkout master
+
+Y ejeccuto los código:
+
+	git branch --merged
+	git branch --no-merged
+
+y me saldra:
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/listado.jpg)
+
+
+y hago add + commit + push.
+
+
 
 
 
