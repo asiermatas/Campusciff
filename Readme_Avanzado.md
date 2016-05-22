@@ -9,10 +9,52 @@ Teclee:
 
 Y lo subí con los siguientes comandos una vez más:
 
-![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/SubidaRead2.jpg)
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/SubidaRead1.jpg)
 
 
-## Siguientes pasos del ejercicio:
+__Siguientes pasos del ejercicio__
+
+##  Crear Rama
+
+	git branch v0.2
+
+entramos en la rama
+
+	checkout v0.2
+
+## Añadir fichero
+
+Pues creamos el fichero
+
+	touch 2.txt
+
+Y lo subimos
+
+	git add -A
+	git commit -m 2.txt
+	git push DIRECCION REPOSITORIO REMOTO (en mi caso git@github.com:asiermatas/Campusciff.git)
+
+Esta ultima orden me da error, ya que no he defindo el repositorio remoto para esta rama. Y me pone:
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/errorpush.jpg)
+
+Así que ejecuto:
+
+	git push --set-upstream git@github.com:asiermatas/Campusciff.git v0.2
+
+me sale este mensaje:
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/okpush.jpg)
+
+Y subo todo.
+
+
+
+
+
+
+
+
 
 
 
