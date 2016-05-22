@@ -70,10 +70,33 @@ Y hacemos un merge
 	git merge v0.2
 
 
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/mergejpg)
 
 
+Con esto he compiado lo que habia en la rama v0.2 al master
+
+# Merge con conflicto
+
+El fichero 1.txt lo teniamos creado del ejercicio anterior. En este lo vamos a rellenar con un HOLA
+
+Para ello simplemente uutilizaremos windowws: boton derecho abrir , escribi y guardar. 
+
+Y hacemos el add+commit.
+
+Despues vamos a la rama v0.2
+
+	git checkout v0.2
+
+Y editamos con windows el 1.txt que tenemos ahi.
+
+Este ahora aprecera en blannco, porque dependiendo de en que rama o master enstemos en git bash, y si hemos hecho ya commit. 
+Pues entonces tendremos un fichero distion con una visualización distinta.
 
 
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/generandoconflictojpg)
+
+
+Ahora al hacer el merge, es decir copiar reciprocamente rama v0.2 y Master, deectará que hay valores distintos en commit en Master y Rama paara 1.txt
 
 
 
