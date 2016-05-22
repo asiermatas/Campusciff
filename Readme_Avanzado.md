@@ -48,6 +48,18 @@ me sale este mensaje:
 
 Y subo todo.
 
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/subirrama.jpg)
+
+
+Y me aparecerá:
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/ramav0.2jpg)
+
+
+
+
+
+
 
 
 
