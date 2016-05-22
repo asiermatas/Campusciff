@@ -93,16 +93,16 @@ Este ahora aprecera en blanco, porque dependiendo de en que rama o master enstem
 Pues entonces tendremos un fichero distion con una visualización distinta.
 
 
-![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/generandoconflictojpg)
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/generandoconflicto.jpg)
 
 
 Ahora al hacer el merge, es decir copiar reciprocamente rama v0.2 y Master, deectará que hay valores distintos en commit en Master y Rama paara 1.txt
 
-![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/conflicto1txt2jpg)
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/conflicto1txt2.jpg)
 
 Para resolver el conflicto vamos a wndows abrimos el fichero 1txxt y nos aparecerá donde esta el conflicto.
 
-![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/conflicto1txtjpg)
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/conflicto1txt.jpg)
 
 Yo me decido a dejar el Hola y borro el resto.
 
