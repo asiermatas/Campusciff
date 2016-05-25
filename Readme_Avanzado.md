@@ -223,3 +223,76 @@ Y para generar pagina web del repositorio tenemos que ir a los setting del repos
 ![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/team13.jpg)
 
 
+#Forkear un repositorio de otra persona
+
+Para ello iremos a traves de git hb al repositorio de otra persona, daremos fork y copiaremos el enlace
+
+	git@github.com:campuscif-asiermatas/annalawrenc.github.io.git
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork1.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork2.jpg)
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork3.jpg)
+
+
+
+Y despues en nuestro ordenador, creamos una carpeta (yo con windows) y después abro el git.
+
+Nos colocamos en la carpeta recien creada donde vamos a clonar. Y hacemos:
+
+	git clone git@github.com:campuscif-asiermatas/annalawrenc.github.io.git
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork4.jpg)
+
+
+Ahora nos movemos hasta dentro del repositorio clonado y dentro de este a la rama
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork5.jpg)
+
+Cuando hagamos esto veremos todo el contenido ya en la carpeta
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork6.jpg)
+
+modificamos el archivo index.html y le ponemos algo.
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork7.jpg)
+
+
+Nos creamos una rama en el repositorio que hemos clonado
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork8.jpg)
+
+Y subimos nuestro index.html a esa rama
+
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork9.jpg)
+
+Y lo subimos a nuestra organización, al repositorio que hemos clonado de ana a mi organización
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork10.jpg)
+
+
+_PULL REQUEST_
+
+Aquí lo que vamos a hacer es enviar a Anna el contenido de la rama mi version con u pull request.
+
+Para eso no situamos en el repositorio clonado, en la rama creada nueva y hacemos un pull request.
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork11.jpg)
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork12.jpg)
+
+![Imagen Subida](https://github.com/asiermatas/Campusciff/blob/master/fork13.jpg)
+
+
+
+
+
+
